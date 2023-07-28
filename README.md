@@ -39,7 +39,7 @@ The core concept of the code stands on three classes:
 * __Edge__ : A line connecting two Point samples, each line is identified with start & end points
 * __Face__ : 3d illustration of convex hull, contains of Triangular planes, identified with points and edges.
 
-Array of samples of __Face__ model outputs the result of the project, which is the covex wrapping the points.
+Array of samples of __Face__ model outputs the result of the project, which is the convex wrapping the points.
 
 ## Results
 There are two ways to scatter points in the space, random generation of points or manual user inputs, errors are handled in both ways.
