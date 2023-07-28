@@ -43,8 +43,9 @@ Array of samples of __Face__ model outputs the result of the project, which is t
 
 ## Results
 There are two ways to scatter points in the space, random generation of points or manual user inputs, errors are handled in both ways.
-The result will gradually update the convex and each triangular plane is added gradually with an interval to see the wrapping process clearly
-.
+The result will gradually update the convex and each triangular plane is added gradually with an interval to see the wrapping process clearly. Two sample outputs are added in the following:
+- - - -
+
 ![](https://github.com/moharastegaran/gift_wrapping_3d/blob/main/output/output_test_1.gif)
 
 ![](https://github.com/moharastegaran/gift_wrapping_3d/blob/main/output/output_test_2.gif)
